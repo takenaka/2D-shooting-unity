@@ -1,3 +1,3 @@
 # 2D-shooting-unity
 
-2D shooting tutorial.
+2D shooting test.
